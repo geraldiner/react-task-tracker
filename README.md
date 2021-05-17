@@ -32,9 +32,9 @@ Each of the components could be embedded in the other by importing them. Further
 Each part of the app is a component, which is what makes React so useful. You can reuse components, such as the Task component, which would take forever to write out by hand. And probably be really clunky if using VanillaJS.
  
 # Lessons Learned:
-I genuinely had fun making this app. As simple as it is. Every time we added a new compenent and it worked, I had such genuine delight, I wish I could do this all the time. I wish my body could handle doing this all the time. 
+I genuinely had fun making this app. As simple as it is, every time we added a new compenent and it worked, I had such genuine delight, I wish I could do this all the time. I wish my body could handle doing this all the time. 
 
-I was especially blown away by the `Link` from `react-router-dom` that could just link to pages without 
+I was especially blown away by the `Link` from `react-router-dom` that could just link to pages without the page refreshing.
  
 # Other Projects:
 Take a look at other cool stuff I've worked on:
