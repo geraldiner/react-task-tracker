@@ -37,6 +37,7 @@ I genuinely had fun making this app. As simple as it is, every time we added a n
 I was especially blown away by the `Link` from `react-router-dom` that could just link to pages without the page refreshing.
 
 
+
 ## Other Projects
 
 Check out other stuff I've worked on:
