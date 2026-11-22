@@ -35,25 +35,6 @@ Each part of the app is a component, which is what makes React so useful. You ca
 I genuinely had fun making this app. As simple as it is, every time we added a new compenent and it worked, I had such genuine delight, I wish I could do this all the time. I wish my body could handle doing this all the time. 
 
 I was especially blown away by the `Link` from `react-router-dom` that could just link to pages without the page refreshing.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ## 🚀 Other Projects
 
 Check out other stuff I've worked on:
